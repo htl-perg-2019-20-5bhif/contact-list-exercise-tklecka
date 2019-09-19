@@ -1,14 +1,12 @@
 # *Contact List* Quiz
 
-
 ## Introduction
 
 In this exercise, you have to implement RESTful Web API for maintaining a contact list.
 
 1. Everybody has to do his/her best to come up with a solution.
 
-1. Earn one point for your grade if you create a *GitHub Issue* in your *GitHub Classroom* containing a link to the Web API that I can test over the Internet. If you need help finding a free hosting service for your ASP.NET solution, [contact me](mailto:r.stropek@htl-perg.ac.at).
-
+1. Earn one point for your grade if you implement all requirements specified in the [*swagger.yaml*](swagger.yaml) file. Notify me via GitHub issue if you succeeded and want the extra points.
 
 ## Specification
 
@@ -16,8 +14,7 @@ In this exercise, you have to implement RESTful Web API for maintaining a contac
 
 1. Your Web API must implement the technical specification defined in [*swagger.yaml*](swagger.yaml).
 
-1. Add at least two unit tests for your Web API.
-
+1. If possible, use ASP.NET Core 3. ASP.NET Core 2.2 is also acceptable.
 
 ## Hints
 
